@@ -1,2 +1,4 @@
 # Email-Sender
-A python script that sends emails.Send plain text, fancy emails(html content&amp; attachments)
+A python script that sends emails.
+- Sends plain text
+- Sends Fancy emails(html content & attachments)
